@@ -1,4 +1,2 @@
 # pharmacy
-# pharmbot
-# pharmbot
-# pharmbot
+
